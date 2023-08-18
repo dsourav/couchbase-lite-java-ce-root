@@ -1,0 +1,6 @@
+[submodule "ce"]
+	path = ce
+	url = https://github.com/dsourav/couchbase-lite-java-ce
+[submodule "common"]
+	path = common
+	url = https://github.com/dsourav/couchbase-lite-java-common
